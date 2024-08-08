@@ -5,7 +5,7 @@
 - 💻 Javascript/React
 - 💾 MySQL, MongoDB
   
-🍳 Background in culinary and tourism.
-📧 You can reach me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jaronimas-snipas/)).
-⚡ Fun fact: I live in Chur, study in Lucerne and work in Zürich - I love internet.
+- 🍳 Background in culinary and tourism.
+- 📧 You can reach me on [Linkedin](https://www.linkedin.com/in/jaronimas-snipas/).
+- ⚡ Fun fact: I live in Chur, study in Lucerne and work in Zürich - I love internet.
 
