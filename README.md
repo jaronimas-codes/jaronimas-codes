@@ -4,7 +4,7 @@
 - 🖥️ Self-studied web development before attending my master's:
   - 🌐 HTML, CSS
   - 💻 Javascript/React
-  - 💾 MySQL, MongoDB
+  - 💾 PostgreSQL, MySQL, MongoDB
 - 🍳 Background in culinary and tourism.
 - 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/jaronimas-snipas/).
 - ⚡ Fun fact: I live in Chur, study in Lucerne, and work in Zürich - I love the internet.
