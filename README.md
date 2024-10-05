@@ -1,4 +1,4 @@
-- 📊 Data Manager at Switzerland's biggest Life Sciences distributor.
+- 📊 Data Manager at Switzerland's biggest Life Science distributor.
 - ⚙️ Working on my master's thesis to automate quality control at my workplace.
 - 🏋️ ~~1st~~, ~~2nd~~, ~~3rd~~, 4th semester student in the MSc Applied Information and Data Science program at HSLU.
 - 🖥️ Self-studied web development before attending my master's:
