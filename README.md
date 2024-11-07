@@ -1,10 +1,11 @@
-- 📊 Data Manager at Switzerland's biggest Life Science distributor.
-- ⚙️ Working on my master's thesis to automate quality control at my workplace.
-- 🏋️ ~~1st~~, ~~2nd~~, ~~3rd~~, 4th semester student in the MSc Applied Information and Data Science program at HSLU.
-- 🖥️ Self-studied web development before attending my master's:
+- 📊 **Data Manager** at Switzerland's largest life science distributor.
+- ⚙️ **Master’s Thesis**: Automating quality control in my workplace.
+- 🏋️ **MSc Applied Information and Data Science** student (4th semester) at HSLU.
+- 🖥️ **Self-taught Web Developer** before my master’s:
   - 🌐 HTML, CSS
-  - 💻 Javascript/React
+  - 💻 JavaScript/React
+  - 🐍 Python, Flask
   - 💾 PostgreSQL, MySQL, MongoDB
-- 🍳 Background in culinary and tourism.
-- 📧 You can reach me on [LinkedIn](https://www.linkedin.com/in/jaronimas-snipas/).
-- ⚡ Fun fact: I live in Chur, study in Lucerne, and work in Zürich - I love the internet.
+- 🍳 **Background**: Culinary arts and tourism.
+- 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaronimas-snipas/).
+- ⚡ **Fun Fact**: I live in Chur, study in Lucerne, and work in Zürich – thank goodness for the internet!
