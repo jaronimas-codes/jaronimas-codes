@@ -1,5 +1,5 @@
 - 📊 **Data Manager** at Switzerland's largest life science distributor.
-- ⚙️ **Master’s Thesis**: Automating quality control in my workplace.
+- ⚙️ **Master’s Thesis**: Automating data quality control in my workplace.
 - 🏋️ **MSc Applied Information and Data Science** student (4th semester) at HSLU.
 - 🖥️ **Self-taught Web Developer** before my master’s:
   - 🌐 HTML, CSS
