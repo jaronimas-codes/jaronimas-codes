@@ -1,5 +1,5 @@
 - 📊 **Data Manager** at Switzerland's largest life science distributor.
-- ⚙️ **Master’s Thesis**: Automating data quality control in my workplace.
+- ⚙️ **Master’s Thesis**: Automating data quality control and integrating it to data mgmt workflow.
 - 🏋️ **MSc Applied Information and Data Science** student (5th (and last) semester) at HSLU.
 - 🖥️ Current:  **Data Scientist**:
   - 🐍 Python, Flask
