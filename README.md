@@ -1,9 +1,9 @@
-- 📊 **Data Manager** at Switzerland's largest life science distributor.
+- 📊 **Data Manager** at Switzerland's largest life science reagents distributor - LubioScience.
 - 🏋️ **MSc Applied Information and Data Science** @ Lucerne University of Applied Sciences and Arts.
 - 🖥️ Currently:  **Data Scientist**:
   - 🐍 Python, Flask
   - 💾 PostgreSQL, MySQL, MongoDB
-- 🖥️ Before: **self-taught Web Developer**:
+- 🖥️ Before: **Self-taught Web Developer**:
   - 🌐 HTML, CSS
   - 💻 JavaScript/React
 - 🍳 **Background**: Culinary arts and tourism.
