@@ -1,6 +1,6 @@
 - 📊 **Data Manager** at Switzerland's largest life science distributor.
 - ⚙️ **Master’s Thesis**: Automating data quality control and integrating it to data mgmt workflow.
-- 🏋️ **MSc Applied Information and Data Science** student (5th (and last) semester) at HSLU.
+- 🏋️ **MSc Applied Information and Data Science** @ Lucerne University of Applied Sciences and Arts.
 - 🖥️ Current:  **Data Scientist**:
   - 🐍 Python, Flask
   - 💾 PostgreSQL, MySQL, MongoDB
