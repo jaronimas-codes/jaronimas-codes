@@ -8,4 +8,3 @@
   - 💻 JavaScript/React
 - 🍳 **Background**: Culinary arts and tourism.
 - 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/jaronimas-snipas/).
-- ⚡ **Fun Fact**: I live in Chur, study in Lucerne, and work in Zürich – thank goodness for the internet!
